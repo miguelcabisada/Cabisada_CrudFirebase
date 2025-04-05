@@ -6,7 +6,7 @@ function readFom() {
   genderV = document.getElementById("gender").value;
   addressV = document.getElementById("address").value;
   EmailV = document.getElementById("Email").value;
-  UsernameV = document.getElementById("Email").value;
+  UsernameV = document.getElementById("Username").value;
   console.log(rollV, nameV, addressV, genderV, EmailV, UsernameV);
 }
 
